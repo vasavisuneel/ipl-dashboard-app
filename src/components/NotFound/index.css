@@ -1,0 +1,9 @@
+.not-found {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 48px;
+  font-weight: bold;
+}

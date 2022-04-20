@@ -1,0 +1,36 @@
+.list-match-details {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.green-color {
+  color: #18ed66;
+}
+.red-color {
+  color: #e31a1a;
+}
+.match {
+  background-color: #0f172a;
+  border-radius: 8px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.team-logo {
+  width: 80px;
+  height: 80px;
+}
+.team-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  font-weight: bold;
+}
+.match-result {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+  font-weight: 500;
+}

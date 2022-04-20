@@ -1,0 +1,43 @@
+.match-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+}
+.match-venue-details {
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.competing-team {
+  font-size: 35px;
+  font-weight: bold;
+}
+.date {
+  font-size: 25px;
+  font-weight: bold;
+}
+.venue {
+  font-size: 18px;
+  font-weight: 500;
+}
+.competing-team {
+  width: 150px;
+  height: 150px;
+}
+.match-player-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+.match-heading {
+  font-size: 20px;
+  font-weight: 500;
+}
+.match-text {
+  font-size: 16px;
+  font-weight: 300;
+}

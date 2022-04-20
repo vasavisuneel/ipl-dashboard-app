@@ -1,0 +1,38 @@
+.team-match-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.team-latest-match {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+.banner-img {
+  width: 100%;
+  height: 30vh;
+  border-radius: 8px;
+}
+.latest-match-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.latest-match-container {
+  background-color: #1e293b;
+  width: 100%;
+  border-radius: 16px;
+  display: flex;
+  padding: 30px;
+}
+.recent-matches-container {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
